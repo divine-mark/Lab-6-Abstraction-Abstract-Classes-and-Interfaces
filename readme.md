@@ -3,9 +3,6 @@
 **Author:** Divine Mark Makhomeya  
 **Registration Number:** H250333E  
 **Course:** Object Oriented Programming  
-**Date:** [Insert Date]
-
----
 
 This repository contains my solutions for **Lab 6** of the OOP in Java lab manual.
 The lab covers abstract classes, abstract methods, interfaces, default and static
